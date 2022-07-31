@@ -1,2 +1,2 @@
-# -open-chat-game
+# OpenChatGame-Backend
 オープンチャットでみんなで遊べるゲームを作成したい。
