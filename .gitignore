@@ -1,1 +1,5 @@
-public/conf/
+public/conf/*
+
+node_modules/*
+
+package-lock.json
